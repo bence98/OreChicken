@@ -1,0 +1,16 @@
+[
+{
+  "modid": "OreChicken",
+  "name": "Ore Chicken Mod",
+  "description": "Adds special, mineral-laying chicken.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CsokiCraft"],
+  "credits": "Idea by Snipe13051, textures by Geri0102 and me",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
